@@ -1,3 +1,5 @@
+> This project is now archived as I no longer use the camera. Feel free to create a fork and maintain your version.
+
 # juancamera-proxy-netcore
 A proxy for streaming video from a Juan IP camera without its custom handshaking
 
